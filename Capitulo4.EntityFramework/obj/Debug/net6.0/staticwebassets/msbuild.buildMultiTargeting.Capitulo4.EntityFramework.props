@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Capitulo4.EntityFramework.props" />
+</Project>
